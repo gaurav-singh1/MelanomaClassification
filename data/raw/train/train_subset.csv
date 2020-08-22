@@ -1,2 +1,8 @@
 image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target
-ISIC_0015719,IP_3075186,female,45,upper extremity,unknown,benign,0
+ISIC_0052212,IP_2842074,female,50.0,lower extremity,nevus,benign,0
+ISIC_0068279,IP_6890425,female,45.0,head/neck,unknown,benign,1
+ISIC_0075663,IP_6017204,female,35.0,torso,unknown,benign,0
+ISIC_0015719,IP_3075186,female,45.0,upper extremity,unknown,benign,1
+ISIC_0074542,IP_4698288,male,25.0,lower extremity,unknown,benign,0
+ISIC_0074311,IP_2950485,female,40.0,lower extremity,unknown,benign,1
+ISIC_0074268,IP_8723313,female,55.0,upper extremity,unknown,benign,0

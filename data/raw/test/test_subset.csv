@@ -1,2 +1,6 @@
 image_name,patient_id,sex,age_approx,anatom_site_general_challenge
-ISIC_0052060,IP_3579794,male,70,
+ISIC_0052060,IP_3579794,male,70.0,
+ISIC_0052349,IP_7782715,male,40.0,lower extremity
+ISIC_0058510,IP_7960270,female,55.0,torso
+ISIC_0073313,IP_6375035,female,50.0,torso
+ISIC_0074618,IP_4438996,male,50.0,lower extremity
